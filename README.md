@@ -1,7 +1,7 @@
 ### Hi there, I'm Wassim 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/wassim31/wassim31/blob/master/assets/cover.png" alt="cover" />
+  <img width="100%" src="https://github.com/wassim31/wassim31/blob/main/assets/cover.png" alt="cover" />
 </div>
 
 
@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="70%" src="https://github.com/wassim31/wassim31/blob/master/assets/skills.png" alt="cover" />
+        <img width="70%" src="https://github.com/wassim31/wassim31/blob/main/assets/skills.png" alt="cover" />
       </td>
     </tr>
   </tbody>
