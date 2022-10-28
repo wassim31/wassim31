@@ -61,9 +61,6 @@ I see myself as a student more than anything else. I will be a student for the r
    <a href="mailto:wassimbs088@gmail.com" mailto="wassimbs088@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
-  <a href="https://www.upwork.com/freelancers/~01f23222d66838d44c" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
-  </a>
 </div>
 
 
