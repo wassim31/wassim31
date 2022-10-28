@@ -1,5 +1,3 @@
-### Hi there, I'm Wassim 👋
-
 <div align="center">
   <img width="100%" src="https://github.com/wassim31/wassim31/blob/main/assets/cover.png" alt="cover" />
 </div>
