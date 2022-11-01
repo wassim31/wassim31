@@ -15,7 +15,8 @@
   <tbody>
     <tr>
       <td align="center">
-
+        <img width="70%" src="https://github.com/wassim31/wassim31/blob/main/assets/skills.png" alt="cover" />
+      </td>
     </tr>
   </tbody>
   
@@ -59,6 +60,5 @@ I see myself as a student more than anything else. I will be a student for the r
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
 </div>
-
 
 
