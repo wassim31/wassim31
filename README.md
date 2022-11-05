@@ -1,28 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://github.com/wassim31/wassim31/blob/main/assets/cover.png" alt="cover" />
-</div>
-
-
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>Programming Languages & Frameworks</strong></span>
-      </td>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="70%" src="https://github.com/wassim31/wassim31/blob/main/assets/skills.png" alt="cover" />
-      </td>
-    </tr>
-  </tbody>
-  
-</table>
-</div>
-
 ## About me
 Wassim , 19 years old . Computer Engineering undergraduate with great passion for learning & contributing to software engineering.
 
