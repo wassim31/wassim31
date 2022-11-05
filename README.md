@@ -1,9 +1,16 @@
 ## About me
-Wassim , 19 years old . Computer Engineering undergraduate with great passion for learning & contributing to software engineering.
+Wassim , 19 years old . Computer Engineering undergraduate with strong foundations in Algorithms , Data structures , Mathematics and problem solving. 
 
-I've been sailing in memory playing with pointers and call stacks with C - X86 Assembly, until i decided to learn about the object-oriented programming with Java , since that moment i am in love with the paradigm.
+Thanks to the time invested to read reference Computer science books , Wassim has a strong foundation in Computer architecture & low level programming with the Intel's & Motorola's several Assembly instructions sets.
 
+Also , He has a good operating systems theoretical knowledge with it's analogy on Unix/Linux Systems managing processes & virtual memory and virtualization technologies With C - C++ , and great 
+manipulation of the Linux kernel networking stack ( TCP/IP and it several protocols ).
+
+By Assembling all this theoretical critical knowledge , Wassim is developing his own Object Oriented interpreted programming language with it's manual grammatical lexer & parser and Virtual machine
+
+Wassim's mindset : 
 I see myself as a student more than anything else. I will be a student for the rest of my life. As a student I am willing to learn how to do anything necessary to be the best in whatever task you give me. I do not know everything but I am willing to learn anything and learn it quickly.
+
 
 ## My Github stats
 <p align='center'>
