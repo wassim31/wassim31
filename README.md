@@ -3,8 +3,7 @@ Wassim , 19 years old . Computer Engineering undergraduate with strong foundatio
 
 Thanks to the time invested to read reference Computer science books , Wassim has a strong foundation in Computer architecture & low level programming with the Intel's & Motorola's several Assembly instructions sets.
 
-Also , He has a good operating systems theoretical knowledge with it's analogy on Unix/Linux Systems managing processes & virtual memory and virtualization technologies With C - C++ , and great 
-manipulation of the Linux kernel networking stack ( TCP/IP and it several protocols ).
+Also , He has a good operating systems theoretical knowledge with it's analogy on Unix/Linux Systems managing processes & virtual memory and virtualization technologies With C - C++ , with good networking knoweldge ( playing arround the TCP/IP Stack and Cisco Routing & Switching )
 
 By Assembling all this theoretical critical knowledge , Wassim is developing his own Object Oriented interpreted programming language with it's manual grammatical lexer & parser and Virtual machine
 
