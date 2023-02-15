@@ -7,7 +7,7 @@ I like to work close to the machine by manipulating x86 and x86-64 assembly inst
 
 i admire the object oriented paradigm and entreprise level software too and Java is my favorite modern programming language.
 
-I see myself as a student more than anything else. I will be a student for the rest of my life. As a student I am willing to learn how to do anything necessary to be the best in whatever task you give me. I do not know everything but I am willing to learn anything and learn it quickly.
+I see myself as a student more than anything else. I will be a student for the rest of my life. As a student I am willing to learn how to do anything necessary to be the best in whatever situation. I do not know everything but I am willing to learn anything.
 
 ## My Github stats
 <p align='center'>
