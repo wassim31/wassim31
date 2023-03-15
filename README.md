@@ -1,5 +1,5 @@
 ## About me
-Wassim , 19 years old . Computer Engineering undergraduate with strong foundations in Algorithms , Data structures , Operating systems and Computer networking ( TCP/IP Stack & CISCO Routing-Switching ) 
+Wassim , 20 years old . Computer Engineering undergraduate with strong foundations in Algorithms , Data structures , Operating systems and Computer networking ( TCP/IP Stack & CISCO Routing-Switching ) 
 
 I like to play arround the linux kernel and understand how operating systems works by diving into low level components and try to understand them by implementing them such as ( bootloaders , micro-kernels , shells...)
 
