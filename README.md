@@ -1,25 +1,12 @@
 ## About me
-Wassim , 20 years old . Computer Engineering undergraduate with strong foundations in Algorithms , Data structures , Operating systems and Computer networking ( TCP/IP Stack & CISCO Routing-Switching ) 
+FullName : Boussebha Wassim Abdessamed.
+Age : 20 years old.
+Passion : C & C++ & Linux kernel & Embedded systems & RTOS & Networks  
+Mindset : 
+- I like to dive deep and understand how things work under the hood.
+- I see myself as a student more than anything else. I will be a student for the rest of my life. As a student I am willing to learn how to do anything necessary to be the best in whatever situation.
+- I do not know everything but I am willing to learn anything.
 
-I like to play arround the linux kernel and understand how operating systems works by diving into low level components and try to understand them by implementing them such as ( bootloaders , micro-kernels , shells...)
-
-I like to work close to the machine by manipulating x86 and x86-64 assembly instructions sets , in addition to C programming language .
-
-i admire the object oriented paradigm and entreprise level software too and Java is my favorite modern programming language.
-
-I see myself as a student more than anything else. I will be a student for the rest of my life. As a student I am willing to learn how to do anything necessary to be the best in whatever situation. I do not know everything but I am willing to learn anything.
-
-## My Github stats
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wassim31&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="wassim31's github stats"/>
-</p>
-
-<p>
-  <b>For more Github info </b>
-  <a href="https://gitprofilee.netlify.app/user?id=wassim31">check this</a>
-</p>
-
-<h2><i>Follow me:</i></h2>
 <div  align="center">
 
   <a href="https://www.linkedin.com/in/wassimboussebha/" target="_blank">
