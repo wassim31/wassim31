@@ -2,6 +2,7 @@
 Full Name : Boussebha Wassim Abdessamed. <br>
 Age : 20. <br>
 Passion : C C++ & Linux kernel & Embedded systems & RTOS & Networks  <br>
+
 Mindset : 
 - I like to dive deep and understand how things work under the hood.
 - I see myself as a student more than anything else. I will be a student for the rest of my life. As a student I am willing to learn how to do anything necessary to be the best in whatever situation.
