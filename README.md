@@ -1,7 +1,7 @@
 ## About me
 Full Name : Boussebha Wassim Abdessamed. <br>
-Age : 20. <br>
-Passion : Linux kernel & Embedded systems & RTOS & Networks  <br>
+Age : 21. <br>
+Passion : Linux kernel & eBPF & Cloud native applications <br>
 
 Mindset : 
 - I like to dive deep and understand how things work under the hood.
@@ -16,14 +16,12 @@ Mindset :
   <a href="https://www.instagram.com/wassim.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/juste.wassim.75/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
+
 
  <a href="https://twitter.com/oran_wassim" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
   </a>
-   <a href="mailto:wassimbs088@gmail.com" mailto="wassimbs088@gmail.com" target="_blank">
+   <a href="mailto:wassim.boussebha@ensttic.dz" mailto="wassim.boussebha@ensttic.dz" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
   </a>
 </div>
