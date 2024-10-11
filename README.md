@@ -1,7 +1,7 @@
 ## About me
 Full Name : Boussebha Wassim Abdessamed. <br>
 Age : 21. <br>
-Passion : Linux kernel & eBPF & Cloud native applications <br>
+Passion : Linux kernel & eBPF & Cloud native applications. <br>
 
 Mindset : 
 - I like to dive deep and understand how things work under the hood.
