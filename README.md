@@ -7,10 +7,6 @@ Passion : Backend developement & Linux kernel & System engineering <br>
   <a href="https://www.linkedin.com/in/wassimboussebha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/wassim.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-  </a>
-
 
  <a href="https://twitter.com/oran_wassim" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
