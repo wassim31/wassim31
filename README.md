@@ -1,6 +1,4 @@
 ## About me
-Full Name : Boussebha Wassim Abdessamed. <br>
-Age : 22. <br>
 Passion : Backend developement & Linux kernel & System engineering <br>
 <div  align="center">
 
